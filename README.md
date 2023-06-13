@@ -17,12 +17,12 @@ Auto Push is a Python script that takes Git commits and pushes them to the next 
 3. It's time to move the push file to the executable directory. Get ready for the spotlight! 💃
 
    ```bash
-   sudo mv push /usr/local/bin/
+   sudo mv push.py /usr/local/bin/
    
 4. Put on your dancing shoes! We need to make the push script executable:
 
    ```bash
-   chmod +x /usr/local/bin/push
+   chmod +x /usr/local/bin/push.py
    
 5. You're all set! Now, let's bring the rhythm. Feel the beat! 🎶🕺
 
