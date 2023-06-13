@@ -23,6 +23,7 @@ Auto Push is a Python script that takes Git commits and pushes them to the next 
 
    ```bash
    chmod +x /usr/local/bin/push.py
+   sudo mv push.py /usr/local/bin/push
    
 5. You're all set! Now, let's bring the rhythm. Feel the beat! 🎶🕺
 
