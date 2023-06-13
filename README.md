@@ -4,35 +4,35 @@ Auto Push is a Python script that automates the process of committing and pushin
 
 ## Installation
 
-### Clone the repository:
+1. Clone the repository:
 
    ```bash
    git clone <repository_url>
-### Navigate to the directory
+2. Navigate to the directory
 
     ```bash
     cd Auto_Push
 
-### Move the push file to the executable directory
+3. Move the push file to the executable directory
 
     ```bash
     sudo mv push /usr/local/bin/
 
-### Make it Executable
+4. Make it Executable
 
     ```bash
     chmod +x /usr/local/bin/push
 
-### Done
+5. Done
 
 ## 🚀 Usage
 
-### Type push on the terminal
+1. type push on the terminal
 
     ```bash
     push
 
-### Select The file you wanna add and type the commit message
+2. Select The file you wanna add and type the commit message
     
     ```bash
     ____________________________________
@@ -63,7 +63,7 @@ Auto Push is a Python script that automates the process of committing and pushin
    Commit pushed successfully to GitHub.
 
 
- ### NOTES
+3. NOTES
 
     ### READ
     1. ⚠️ Make sure you have Git installed on your system before using Auto Push.
