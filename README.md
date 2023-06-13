@@ -50,6 +50,8 @@ Auto Push is a Python script that automates the process of committing and pushin
     1) README.md
     2) Test.py
     Select the file number: 1
+
+    ##When Succesfull
     [main 42c8924] push
     1 file changed, 11 insertions(+), 6 deletions(-)
     Enumerating objects: 5, done.
@@ -61,8 +63,6 @@ Auto Push is a Python script that automates the process of committing and pushin
     remote: Resolving deltas: 100% (1/1), completed with 1 local object.
     To https://github.com/fletcher429/Auto_Push.git
    fd36f54..42c8924  HEAD -> main
-    Commit pushed successfully to GitHub.
-
- 
-
-    
+    Commit pushed successfully to GitHub.   
+```bash
+    You  are good to goo!!!
