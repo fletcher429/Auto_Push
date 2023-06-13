@@ -51,6 +51,20 @@ Auto Push is a Python script that automates the process of committing and pushin
     2) Test.py
     Select the file number: 
 
+3. Done Happy Coding
 
+```bash
+[main 42c8924] push
+ 1 file changed, 11 insertions(+), 6 deletions(-)
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 353 bytes | 353.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/fletcher429/Auto_Push.git
+   fd36f54..42c8924  HEAD -> main
+Commit pushed successfully to GitHub.
 
     
