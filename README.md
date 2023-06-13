@@ -64,6 +64,8 @@ Auto Push is a Python script that automates the process of committing and pushin
 
 
 3. NOTES
+
+    ### READ
     ⚠️ Make sure you have Git installed on your system before using Auto Push.
     📁 The push file has been moved to a directory in your system's PATH, enabling you to use the push command from any directory in the terminal.
     🧩 Feel free to customize the push script or integrate it into your workflow as needed                                    
