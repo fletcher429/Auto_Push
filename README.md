@@ -34,8 +34,9 @@ Auto Push is a Python script that automates the process of committing and pushin
 
 2. Select The file you wanna add and type the commit message
 
-```bash
-       _____ _     _____  _     _ _______ 
+ ```bash
+
+           _____ _     _____  _     _ _______ 
   / ____| |   |  __ \| |   | |__   __|
  | |  __| |   | |__) | |   | |  | |   
  | | |_ | |   |  _  /| |   | |  | |   
@@ -44,8 +45,12 @@ Auto Push is a Python script that automates the process of committing and pushin
   BY DAVID & YVONNE
                                              
 
-There are uncommitted changes. Adding all files to commit.
-Enter the name of the file to commit:
-1) README.md
-Select the file number: 
+    There are uncommitted changes. Adding all files to commit.
+    Enter the name of the file to commit:
+    1) README.md
+    2) Test.py
+    Select the file number: 
+
+
+
     
